@@ -211,7 +211,8 @@ plt.show()
 
 
 #### Histogram:
-![image](https://github.com/Yuvaranithulasingam/ODD2023-Datascience-Ex-08/assets/121418522/5d20a2ab-09b5-4ed0-ab0d-1a5e013a5b6a)
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/2575ba1f-980d-403d-a3dc-3cd1917a32df)
+
 
 #### Barplot:
 ![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/3a9ee75a-b70d-4be0-8fdf-535b850311c2)
